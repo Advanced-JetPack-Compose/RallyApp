@@ -6,7 +6,7 @@ codelab.
 
 ## Screenshot
 
-![Screenshot](screenshots/rally.png)
+![Screenshot](./screenshots/rally.gift)
 
 ## License
 ```
